@@ -1,2 +1,2 @@
-# Hippocratia
-ML for predicting and preventing Heart attack related deaths
+# Team Hippocratia
+Predicting and preventing Heart attack related deaths with the help of Machine Learning.
